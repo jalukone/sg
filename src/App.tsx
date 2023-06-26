@@ -1,7 +1,7 @@
 function App() {
 
   return (
-    <>
+    <>  
       <div class="flex h-screen items-center justify-center bg-black">
         <div class="relative">
           <div class="absolute -inset-1 rounded-lg bg-gradient-to-r 
@@ -21,3 +21,4 @@ function App() {
 }
 
 export default App
+
